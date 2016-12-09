@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"module": "commonjs",
+		"allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "pretty": true,
+    "skipLibCheck": true
+	},
+	"exclude": [
+		"node_modules",
+		"bower_components",
+		"jspm_packages",
+		"tmp",
+		"temp"
+	]
+}
