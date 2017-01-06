@@ -1,6 +1,6 @@
 {
   "name": "humint",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Colorfull tagged logger",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,13 @@
     "tagged"
   ],
   "author": "Zero Bias",
+  "bugs": {
+    "url": "https://github.com/zerobias/humint/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerobias/humint.git"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.3",
