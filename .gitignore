@@ -4,7 +4,7 @@
 node_modules
 typings
 .vscode
-
+.nyc_output
 dist
 coverage
 build
