@@ -42,6 +42,7 @@ log.map`Print array`(['each', 'element', 'will', 'logs', 'on', 'new', 'line'])
 Debug-like behavior. Method .debug will prints only when module name includes in DEBUG enviroment variable
 
 > set DEBUG=humint:* & node index.js
+
 ```js
 const log = require('humint')('humint:debugging')
 
